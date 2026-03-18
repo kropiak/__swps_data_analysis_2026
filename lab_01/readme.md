@@ -1,5 +1,5 @@
-# Metody analizy danych.
+# Data anaylysis techniques.
 
-## Laboratorium 1.
+## Laboratory 1.
 
-Notatnik Jupyter z przykładami oraz treścią zadań znajduje się [tutaj](lab_01.ipynb).
+Please finad a notebook with examples and exercises for this lab [here](lab_01.ipynb).
