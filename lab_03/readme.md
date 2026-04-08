@@ -1,5 +1,5 @@
-# Metody analizy danych.
+# Data anaylysis techniques.
 
-## Laboratorium 3.
+## Laboratory 3.
 
 Please find a notebook with examples and exercises for this lab [here](lab_03.ipynb).
